@@ -1,0 +1,10 @@
+{
+  "name": "multink",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "sakurayang <1304274443@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inkjs": "^1.11.0"
+  }
+}
